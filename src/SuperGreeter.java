@@ -9,4 +9,7 @@ public class SuperGreeter {
         Scanner sc = new Scanner(System.in);
         String navn = sc.next();
     }
+    public void stoopidMethod(){
+        System.out.println("This method is stupid");
+    }
 }

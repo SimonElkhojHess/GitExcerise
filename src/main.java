@@ -4,6 +4,7 @@ public class main {
         classobj.start();
         System.out.println("Indtast dit navn");
         classobj.greet();
+        classobj.stoopidMethod();
     }
 
 }
