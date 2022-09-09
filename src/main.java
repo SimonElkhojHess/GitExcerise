@@ -5,6 +5,7 @@ public class main {
         System.out.println("Indtast dit navn");
         classobj.greet();
         classobj.stoopidMethod();
+        classobj.dumMethod();
     }
 
 }

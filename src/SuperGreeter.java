@@ -12,4 +12,7 @@ public class SuperGreeter {
     public void stoopidMethod(){
         System.out.println("This method is stupid");
     }
+    public void dumMethod(){
+        System.out.println("a very dum method");
+    }
 }
