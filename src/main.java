@@ -6,6 +6,7 @@ public class main {
         classobj.greet();
         classobj.stoopidMethod();
         classobj.dumMethod();
+        classobj.endnuMereMethod();
     }
 
 }

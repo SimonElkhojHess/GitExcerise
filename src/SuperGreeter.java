@@ -15,4 +15,7 @@ public class SuperGreeter {
     public void dumMethod(){
         System.out.println("a very dum method");
     }
+    public void endnuMereMethod(){
+        System.out.println("en til metode");
+    }
 }
